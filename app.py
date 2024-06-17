@@ -4,7 +4,7 @@ import pickle
 import streamlit as st
 import pickle
 
-with open('model3a.pkl', 'rb') as model_file2:
+with open('model2xgb.pkl', 'rb') as model_file2:
     xgb = pickle.load(model_file2)
 
 with open('minmax.pkl', 'rb') as scaler_file2:
