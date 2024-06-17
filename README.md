@@ -1,7 +1,9 @@
 # Sales-Prediction-end-to-end
 
 DEMO
-https://github.com/Pruthvik-Machhi/Sales-Prediction-end-to-end/assets/156055812/a25e44ca-95e2-438d-aaa9-6962cc679332
+
+[https://github.com/Pruthvik-Machhi/Sales-Prediction-end-to-end/assets/156055812/a25e44ca-95e2-438d-aaa9-6962cc679332](https://github.com/Pruthvik-Machhi/Sales-Prediction-end-to-end/assets/156055812/64852737-c5e7-4b2c-b6d8-e8ce4dfa15b9
+)
 
 ##  Streamlit App Development
 
